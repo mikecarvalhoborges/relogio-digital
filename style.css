@@ -4,6 +4,7 @@ body {
     background-color: rgb(233, 191, 137);
 }
 
+/* Coloca o main no centro da página */
 main {
     display: flex;
     justify-content: center;
@@ -12,6 +13,7 @@ main {
     height: 100vh;
 }
 
+/* Configura fonte, espaçamento entre os spans e a borda da caixa */
 span {
     font-size: 50px;
     margin: 5px;
